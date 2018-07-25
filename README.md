@@ -7,7 +7,7 @@ Napravljen je kalendar u kome korisnik po svom izboru moze da doda, promeni, obr
 
 ### Skills
 1. ***pytest***
-2. ***funckije sleep, strftime i localtime iz biblioteke time***
+2. ***funkcije sleep, strftime i localtime iz biblioteke time***
 
 ## Prerequisites
 Za ovaj projekat su potrebni `GitHub account` kao i funkcije `sleep`, `strftime` i `localtime` iz biblioteke `time`.Funkcije se dodaju komandom `from time import sleep, strftime, localtime` u fajlu. IDE za rad je IDLE Python.
