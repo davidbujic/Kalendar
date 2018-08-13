@@ -6,7 +6,7 @@ Kreiran je primer command line kalendara koji ima opcije za ispisivanje poruke d
 Napravljen je kalendar u kome korisnik po svom izboru moze da doda, promeni, obrise ili dobije pregled dogadjaja iz kalendara. Uz svaki izbor korisnika dolaze odgovarajuce poruke i u slucaju kada je uspesno i u slucaju kada je neuspesno izvrsena neka od komandi.
 
 ### Skills
-1. ***pytest***
+1. ***pytest*** (projekat Pytest)
 2. ***funkcije sleep, strftime i localtime iz biblioteke time***
 
 ## Prerequisites
@@ -24,3 +24,4 @@ Pokretanje testova se vrsi pokretanjem fajla `kalendar.py` u Shell-u IDLE Python
 ## Versions
 1. Osnovna verzija
 2. Dodati detalji u Skills.
+3. Dodati detalji u Skills vezani za prethodni projekat.
